@@ -2,3 +2,6 @@
 
 http://www.chokaigi.jp/2016/booth/yakisoba.html
 
+# ライセンス
+
+[煮るなり焼くなり好きにしろライセンス](http://www.kmonos.net/nysl/)
